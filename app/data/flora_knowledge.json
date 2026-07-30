@@ -1,0 +1,149 @@
+{
+  "motivation": {
+    "keywords": [
+      "unmotivated",
+      "motivation",
+      "lazy",
+      "procrastinating",
+      "procrastination",
+      "cannot start",
+      "can't start",
+      "dont want to study",
+      "don't want to study"
+    ],
+    "responses": [
+      "You do not need to finish everything now. Pick the smallest useful task and work on it for five minutes.",
+      "Motivation often arrives after starting. Open your notes, choose one topic, and complete one tiny step.",
+      "Try lowering the starting line: one page, one question, or five focused minutes."
+    ]
+  },
+  "stress": {
+    "keywords": [
+      "stressed",
+      "stress",
+      "overwhelmed",
+      "pressure",
+      "too much",
+      "burned out",
+      "burnt out"
+    ],
+    "responses": [
+      "That sounds heavy. Pause for a slow breath, list every task, and choose only the next manageable action.",
+      "When everything feels urgent, separate tasks into: today, later, and optional. Start with one task from today.",
+      "Take a short reset: drink water, relax your shoulders, and choose a 15-minute study block."
+    ]
+  },
+  "anxiety": {
+    "keywords": [
+      "anxious",
+      "anxiety",
+      "panic",
+      "panicking",
+      "worried",
+      "nervous",
+      "scared"
+    ],
+    "responses": [
+      "Try grounding yourself: notice five things you see, four you feel, three you hear, two you smell, and one you taste.",
+      "Slow your breathing and focus on the next concrete action rather than the entire outcome.",
+      "Write down the exact worry, then add one action you can control today. If anxiety keeps interfering with daily life, consider speaking with a qualified mental-health professional."
+    ]
+  },
+  "sadness": {
+    "keywords": [
+      "sad",
+      "down",
+      "lonely",
+      "hopeless",
+      "crying",
+      "depressed",
+      "depression"
+    ],
+    "responses": [
+      "I am sorry this feels so difficult. Consider contacting someone you trust and telling them plainly that you are having a hard time.",
+      "You deserve support beyond an app. A small next step could be messaging a trusted person, counselor, or mental-health professional.",
+      "Be gentle with your expectations today. Basic care, connection, and one manageable task are enough."
+    ]
+  },
+  "focus": {
+    "keywords": [
+      "focus",
+      "distracted",
+      "concentrate",
+      "phone",
+      "attention"
+    ],
+    "responses": [
+      "Put your phone out of reach, close unrelated tabs, and set a 25-minute timer for one clearly defined task.",
+      "Write distractions on a scrap page instead of acting on them. Return to them after the study block.",
+      "Make the task specific: replace 'study science' with 'answer questions 1 to 5 on photosynthesis.'"
+    ]
+  },
+  "exam": {
+    "keywords": [
+      "exam",
+      "test",
+      "deadline",
+      "revision",
+      "assignment"
+    ],
+    "responses": [
+      "Start with the exam date, list the topics, and divide them into daily blocks. Reserve the final sessions for retrieval practice.",
+      "Prioritize active recall and practice questions over rereading. Review mistakes after each session.",
+      "Plan backward from the deadline and leave buffer time for difficult topics and unexpected delays."
+    ]
+  },
+  "greeting": {
+    "keywords": [
+      "hello",
+      "hi",
+      "hey",
+      "good morning",
+      "good evening"
+    ],
+    "responses": [
+      "Hi, I am Flora. Tell me what you are studying or what is making today difficult.",
+      "Hello. We can build a study plan, work through a question, or find one manageable next step."
+    ]
+  },
+  "fallback": {
+    "responses": [
+      "I can help you break this into smaller steps. Tell me the subject, the task, and how difficult it feels from 1 to 10.",
+      "Let us make this manageable. What is the smallest useful result you could complete in the next 20 minutes?",
+      "Try describing the exact part that feels confusing. A specific question is easier to solve than an entire subject."
+    ]
+  },
+  "crisis": {
+    "keywords": [
+      "kill myself",
+      "end my life",
+      "suicide",
+      "suicidal",
+      "hurt myself",
+      "self harm",
+      "self-harm",
+      "do not want to live",
+      "don't want to live",
+      "better off dead"
+    ],
+    "response": "I am really sorry you are dealing with this. Please contact local emergency services or a crisis hotline now, and move near a trusted person who can stay with you. If you are in the United States or Canada, call or text 988. Elsewhere, use your local emergency number or find a local crisis line through findahelpline.com. Flora cannot provide emergency care."
+  },
+  "completion_quotes": [
+    "You kept a promise to yourself. That matters.",
+    "One focused session completed - real progress.",
+    "Excellent work. Small steps build strong results.",
+    "You showed up, focused, and moved forward.",
+    "Finished is powerful. Take a breath and recognize the win.",
+    "Your future self just received a gift from you.",
+    "Progress does not need to be dramatic to be meaningful.",
+    "You did great. Rest briefly, then choose the next step."
+  ],
+  "banner_quotes": [
+    "You do not have to see the whole staircase; take the next step.",
+    "Consistency turns ordinary sessions into extraordinary results.",
+    "Make today's task smaller, clearer, and possible.",
+    "A focused 20 minutes is better than an anxious two hours.",
+    "Progress begins when the next action becomes specific.",
+    "Study with kindness toward yourself, not punishment."
+  ]
+}
